@@ -1,0 +1,22 @@
+{
+  "name": "texaspredental",
+  "version": "1.0.0",
+  "description": "Texas Pre-Dental Society organization website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulDhir/texaspredental.git"
+  },
+  "author": "Rahul Dhir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulDhir/texaspredental/issues"
+  },
+  "homepage": "https://github.com/RahulDhir/texaspredental#readme",
+  "dependencies": {
+    "bourbon-neat": "^1.8.0"
+  }
+}
