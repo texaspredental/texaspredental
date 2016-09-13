@@ -1,0 +1,8 @@
+@import "neat/neat-helpers";
+
+$gutter: 0em !global;
+
+$extra-small: new-breakpoint(max-width 480px 1);
+$small: new-breakpoint(max-width 768px 1);
+$medium: new-breakpoint(max-width 992px 1);
+$large: new-breakpoint(max-width 1200px 1);

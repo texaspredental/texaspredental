@@ -1,0 +1,42 @@
+<html>
+<head>
+</head>
+<body>
+<input type="file" id="fileInput">
+<input type="text" id="idNumber" placeholder="Scan ID card">
+<input type="submit" id="searchButton" value="Check-In">
+<div id="result"></div>
+<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+<script src="papaparse.min.js"></script>
+<script>
+$(function() {
+  $('#fileInput').change(function() {
+    Papa.parse(this.files[0], {
+      complete: function(results) {
+        var headers = results.data.splice(0,1)[0];
+        $('#idNumber').change(function(e) {
+          e.preventDefault();
+          var found = false;
+          $('#result').empty();
+          for (var i = 0; i < results.data.length; i++) {
+            for (var j = 0; j < results.data[i].length; j++) {
+              if ($('#idNumber').val() == results.data[i][j] && results.data[i][j] != null && $('#idNumber').val() != null) {
+                found = true;
+                for (var k = 0; k < headers.length; k++) {
+                  $('#result').append('<div/>').append(headers[k] + ': ' + results.data[i][k]);
+                }
+              }
+            }
+          }
+          if (!found) {
+            $('#result').text('Not Found!');
+          }
+          $('#idNumber').val('');
+        });
+      }
+    });
+  });
+});
+</script>
+</body>
+</html>
