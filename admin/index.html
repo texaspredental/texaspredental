@@ -1,42 +1,193 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official website for UT Austin’s flagship pre-dental society. Find out about upcoming events, opportunities, and everything pre-dental!">
+  <meta name="author" content="Rahul Dhir">
+
+  <title>Texas Pre-Dental Society | The University of Texas at Austin</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/images/favicon.png">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Texas Pre-Dental Society">
+    <meta property="og:url" content="http://texaspredental.org">
+    <meta property="og:image" content="http://texaspredental.org/images/logo_og.png">
+
+  <!-- Custom Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+  <!-- Theme CSS -->
+  <link href="/css/main.css" rel="stylesheet">
+
+  <style>
+    header.navbar {
+      margin-bottom: 0;
+    }
+  </style>
+
 </head>
+
 <body>
-<input type="file" id="fileInput">
-<input type="text" id="idNumber" placeholder="Scan ID card">
-<input type="submit" id="searchButton" value="Check-In">
-<div id="result"></div>
-<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-<script src="papaparse.min.js"></script>
-<script>
-$(function() {
-  $('#fileInput').change(function() {
-    Papa.parse(this.files[0], {
-      complete: function(results) {
-        var headers = results.data.splice(0,1)[0];
-        $('#idNumber').change(function(e) {
-          e.preventDefault();
-          var found = false;
-          $('#result').empty();
-          for (var i = 0; i < results.data.length; i++) {
-            for (var j = 0; j < results.data[i].length; j++) {
-              if ($('#idNumber').val() == results.data[i][j] && results.data[i][j] != null && $('#idNumber').val() != null) {
-                found = true;
-                for (var k = 0; k < headers.length; k++) {
-                  $('#result').append('<div/>').append(headers[k] + ': ' + results.data[i][k]);
+
+  <header class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img src="/images/logo_white.png"> Texas Pre-Dental Society
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <section class="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>Meeting Sign In</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <form id="csvUpload">
+            <p>Please upload a .csv file of all members.</p>
+            <input type="file" id="fileInput">
+          </form>
+        </div>
+      </div>
+      <br><br>
+      <div class="row">
+        <div class="col-md-10">
+          <form id="search" class="form-horizontal">
+            <div class="col-sm-3">
+              <select id="searchType">
+                <option>Validate by...</option>
+              </select>
+            </div>
+            <div class="form-group col-sm-8 text-right">
+              <input type="text" class="form-control" id="query" placeholder="Scan ID Card">
+            </div>
+            <div class="col-sm-1">
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+          <div id="result"></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <table id="table"></table>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <div class="row text-center">
+        <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <script src="papaparse.min.js"></script>
+  <link href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" rel="stylesheet">
+  <link href="//cdn.datatables.net/buttons/1.2.2/css/buttons.dataTables.min.css" rel="stylesheet">
+  <script src="//cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
+  <script src="//cdn.datatables.net/buttons/1.2.2/js/dataTables.buttons.min.js"></script>
+  <script src="//cdn.datatables.net/buttons/1.2.2/js/buttons.flash.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jszip/2.5.0/jszip.min.js"></script>
+  <script src="//cdn.datatables.net/buttons/1.2.2/js/buttons.html5.min.js"></script>
+  <script src="//cdn.datatables.net/buttons/1.2.2/js/buttons.print.min.js"></script>
+  <script>
+  $(function() {
+    $('#search').hide();
+    $('#fileInput').change(function() {
+      $('#search').show();
+      Papa.parse(this.files[0], {
+        complete: function(results) {
+          // Create DataTable skeleton from uploaded CSV file
+          var headers = results.data.splice(0,1)[0];
+          var columnsObjectArray = [];
+          for (var i = 0; i < headers.length; i++) {
+            $('#searchType').append('<option value="' + headers[i] + '">' + headers[i] + '</option>');
+            var columnObject = {title : headers[i]};
+            columnsObjectArray.push(columnObject);
+          }
+          $('#table').DataTable({
+            data: [],
+            columns: columnsObjectArray,
+            scrollX: true,
+            dom: 'Bfrtip',
+            buttons: ['csv', 'excel', 'print']
+          });
+          // Search array for matching ID
+          $('#search').submit(function(e) {
+            e.preventDefault();
+            window.onbeforeunload = function(e) {
+              return "Are you sure you want to leave this page?";
+            };
+            $('#result').empty();
+            var found = false;
+            for (var i = 0; i < results.data.length; i++) {
+              for (var j = 0; j < results.data[i].length; j++) {
+                // Check if query equals any value in data set and is not null
+                if ($('#query').val() == results.data[i][j] && results.data[i][j] != '' && $('#query').val() != '') {
+                  found = true;
+                  // Print value that user has chosen to validate by
+                  for (var k = 0; k < headers.length; k++) {
+                    if (headers[k] == $('#searchType').val()) {
+                      var alertType = results.data[i][k].toLowerCase() == 'unpaid' ? 'alert-danger' : 'alert-success';
+                      $('#result').append('<div class="alert ' + alertType + ' text-center"><h4 style="margin: 0">' + results.data[i][k] + '</h4></div>');
+                    }
+                  }
+                  $('#table').DataTable().row.add(results.data[i]).draw( false );
                 }
               }
             }
-          }
-          if (!found) {
-            $('#result').text('Not Found!');
-          }
-          $('#idNumber').val('');
-        });
-      }
+            if (!found) {
+              $('#result').append('<div class="alert alert-danger text-center"><h4 style="margin: 0">Not Found!</h4></div>');
+            }
+            $('#query').val('').focus();
+          });
+        }
+      });
     });
   });
-});
-</script>
+
+  // function exportList(loggedMembersArray) {
+  //   var csv = Papa.unparse(loggedMembersArray);
+  // }
+
+  </script>
+
 </body>
+
 </html>

@@ -5829,15 +5829,32 @@ p {
   color: #000; }
 
 a.disabled {
-  color: #ccc;
+  color: #bbb;
   pointer-events: none;
   cursor: default; }
 
-.navbar a.navbar-brand img {
+.vertical-center {
   display: inline-block;
-  height: 1em;
   vertical-align: middle;
-  margin-right: 5px; }
+  float: none; }
+
+.navbar a.navbar-brand {
+  padding: 14px; }
+  .navbar a.navbar-brand img {
+    display: inline-block;
+    height: 1.5em;
+    vertical-align: middle;
+    margin-right: 5px; }
+
+ul.meeting-list li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd; }
+  ul.meeting-list li:last-child {
+    border: none; }
+
+p.mission-statement {
+  margin-top: 25px;
+  line-height: 2em; }
 
 section {
   margin: 25px 0; }
@@ -5859,10 +5876,26 @@ section.officers .officers-sidebar {
     margin-left: 15px; }
     section.officers .officers-sidebar .caption .name {
       display: block;
-      color: #000; }
+      color: #000;
+      font-weight: 400; }
     section.officers .officers-sidebar .caption .title {
       display: block;
       color: #222; }
+
+section.officers .officer-profile h2 {
+  font-size: 1.5em; }
+
+section.officers .officer-profile h3 {
+  font-size: 1.3em;
+  color: #777; }
+
+section.officers .officer-profile .officer-picture {
+  float: right;
+  border: 10px solid #f7f7f7;
+  border-radius: 50%; }
+  section.officers .officer-profile .officer-picture img {
+    height: 250px;
+    border-radius: 50%; }
 
 footer {
   padding-top: 20px;
@@ -5875,9 +5908,10 @@ footer {
     margin-bottom: 20px; }
     footer ul li {
       padding-bottom: 10px;
-      margin-bottom: 10px; }
-      footer ul li:nth-child(odd) {
-        border-bottom: 1px solid #666; }
+      margin-bottom: 10px;
+      border-bottom: 1px solid #666; }
+      footer ul li:last-child {
+        border: none; }
   footer ul.social-media-icons li {
     border: none; }
   footer a:hover {

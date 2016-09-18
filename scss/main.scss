@@ -17,9 +17,15 @@ p {
 }
 
 a.disabled {
-	color: #ccc;
+	color: #bbb;
 	pointer-events: none;
    	cursor: default;
+}
+
+.vertical-center {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
 }
 
 // Navigation
@@ -27,19 +33,43 @@ a.disabled {
 .navbar {
 
 	a.navbar-brand {
+		padding: 14px;
 
 		img {
 			display: inline-block;
-			height: 1em;
+			height: 1.5em;
 			vertical-align: middle;
 			margin-right: 5px;
 		}
 	}
 }
 
+ul.meeting-list {
+	li {
+		padding: 10px 0;
+		border-bottom: 1px solid #ddd;
+
+		&:last-child {
+			border: none;
+		}
+	}
+}
+
+p.mission-statement {
+	margin-top: 25px;
+	line-height: 2em;
+}
+
 section {
 	margin: 25px 0;
 }
+
+// .jumbotron {
+// 	background: url('../images/banner-4.png') no-repeat scroll center center;
+// 	background-size: cover;
+// 	color: #fff;
+// 	text-shadow: 0 0 25px #000;
+// }
 
 section.header {
 	margin: 0;
@@ -65,11 +95,34 @@ section.officers {
 			.name {
 				display: block;
 				color: #000;
+				font-weight: 400;
 			}
 
 			.title {
 				display: block;
 				color: #222;
+			}
+		}
+	}
+
+	.officer-profile {
+		h2 {
+			font-size: 1.5em;
+		}
+
+		h3 {
+			font-size: 1.3em;
+			color: #777;
+		}
+
+		.officer-picture {
+			float: right;
+			border: 10px solid #f7f7f7;
+			border-radius: 50%;
+
+			img {
+				height: 250px;
+				border-radius: 50%;
 			}
 		}
 	}
@@ -91,9 +144,10 @@ footer {
 		li {
 			padding-bottom: 10px;
 			margin-bottom: 10px;
+			border-bottom: 1px solid #666;
 
-			&:nth-child(odd) {
-				border-bottom: 1px solid #666;
+			&:last-child {
+				border: none;
 			}
 		}
 	}
