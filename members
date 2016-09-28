@@ -55,9 +55,9 @@
       </div>
       <nav id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="officers.html">Officers</a></li>
-          <li><a href="members.html">Members</a></li>
-          <li><a href="join.html">Join</a></li>
+          <li><a href="officers">Officers</a></li>
+          <li><a href="members">Members</a></li>
+          <li><a href="join">Join</a></li>
         </ul>
       </nav>
     </div>
@@ -96,7 +96,7 @@
       				<h2>Meeting Presentations</h2>
       				<ul class="list-unstyled">
       					<li><a href="https://docs.google.com/presentation/d/1EjEoXWQK-pPmzE_YUux6Aw3SR0tAAreLbdlwnzqgBsg/pub?start=false&loop=false&delayms=60000" target="_blank">First General Meeting</a></li>
-      					<li><a href="#" class="disabled" target="_blank">Second General Meeting</a></li>
+      					<li><a href="https://docs.google.com/presentation/d/19JKpw2klKQoZqdEPKqZgLrRMLXrKoR5PCj6cK7xgTbk/pub?start=false&loop=false&delayms=60000" target="_blank">Second General Meeting</a></li>
       					<li><a href="#" class="disabled" target="_blank">Third General Meeting</a></li>
       					<li><a href="#" class="disabled" target="_blank">Fourth General Meeting</a></li>
       					<li><a href="#" class="disabled" target="_blank">Fifth General Meeting</a></li>
@@ -118,7 +118,9 @@
               <h2>Public Relations</h2>
               <ul class="list-unstyled">
                 <li><a href="https://docs.google.com/spreadsheets/d/1aMLGrJhU3t3HntTC5QJ8dkjWE9MVnbMTP2180ty5O_4/edit?usp=sharing" target="_blank">Tabling Sign-up</a></li>
-                <li><a href="https://docs.google.com/spreadsheets/d/1aMLGrJhU3t3HntTC5QJ8dkjWE9MVnbMTP2180ty5O_4/edit?usp=sharing" target="_blank">New Member Form</a> (For Use During Tabling)</li>
+                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeUhVkn-Xk0xJ3zgTc_ZkcSjRTzy6stgFLvuyEkjqJbfubXIA/viewform" target="_blank">New Member Form</a> (For Use During Tabling)</li>
+                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScD7QOzo8ZsEcfyZiWN9psqV4Q1oX04JR5_CTBXXX07PcqWhA/viewform?c=0&w=1" target="_blank">UT Family Weekend Tabling Sign-up</a></li>
+
               </ul>
             </div>
           </div>
@@ -149,22 +151,22 @@
           <div class="col-sm-4">
             <ul class="list-unstyled">
               <li><a href="/">Home</a></li>
-              <li><a href="officers.html">Officers</a></li>
-              <li><a href="members.html">Members</a></li>
+              <li><a href="officers">Officers</a></li>
+              <li><a href="members">Members</a></li>
             </ul>
           </div>
           <div class="col-sm-4">
             <ul class="list-unstyled">
-              <li><a href="join.html">Join</a></li>
+              <li><a href="join">Join</a></li>
               <li><a href="#" class="disabled">Blog</a></li>
               <li><a href="http://www.zazzle.com/texaspredental" target="_blank">Merchandise</a></li>
             </ul>
           </div>
           <div class="col-sm-4">
             <ul class="list-unstyled">
-              <li><a href="constitution.html">Constitution</a></li>
-              <li><a href="privacy-policy.html">Privacy Policy</a></li>
-              <li><a href="terms.html">Terms and Conditions</a></li>
+              <li><a href="constitution">Constitution</a></li>
+              <li><a href="privacy-policy">Privacy Policy</a></li>
+              <li><a href="terms">Terms and Conditions</a></li>
             </ul>
           </div>
         </div>
@@ -180,7 +182,8 @@
         </div>
       </div>
       <div class="row text-center">
-        <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved.</p>
+        
+     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a></p>
       </div>
     </div>
   </footer>

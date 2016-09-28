@@ -55,9 +55,9 @@
       </div>
       <nav id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right">
-          <li><a href="officers.html">Officers</a></li>
-          <li><a href="members.html">Members</a></li>
-          <li><a href="join.html">Join</a></li>
+          <li><a href="officers">Officers</a></li>
+          <li><a href="members">Members</a></li>
+          <li><a href="join">Join</a></li>
         </ul>
       </nav>
     </div>
@@ -451,22 +451,22 @@
           <div class="col-sm-4">
             <ul class="list-unstyled">
               <li><a href="/">Home</a></li>
-              <li><a href="officers.html">Officers</a></li>
-              <li><a href="members.html">Members</a></li>
+              <li><a href="officers">Officers</a></li>
+              <li><a href="members">Members</a></li>
             </ul>
           </div>
           <div class="col-sm-4">
             <ul class="list-unstyled">
-              <li><a href="join.html">Join</a></li>
+              <li><a href="join">Join</a></li>
               <li><a href="#" class="disabled">Blog</a></li>
               <li><a href="http://www.zazzle.com/texaspredental" target="_blank">Merchandise</a></li>
             </ul>
           </div>
           <div class="col-sm-4">
             <ul class="list-unstyled">
-              <li><a href="constitution.html">Constitution</a></li>
-              <li><a href="privacy-policy.html">Privacy Policy</a></li>
-              <li><a href="terms.html">Terms and Conditions</a></li>
+              <li><a href="constitution">Constitution</a></li>
+              <li><a href="privacy-policy">Privacy Policy</a></li>
+              <li><a href="terms">Terms and Conditions</a></li>
             </ul>
           </div>
         </div>
@@ -482,7 +482,8 @@
         </div>
       </div>
       <div class="row text-center">
-        <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved.</p>
+        
+     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a></p>
       </div>
     </div>
   </footer>
