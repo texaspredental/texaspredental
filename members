@@ -89,7 +89,7 @@
       				<ul class="list-unstyled">
                 <li><a href="#" class="disabled" target="_blank">Dental School Trips</a></li>
       					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfqd-W8uwdpvTiUvGFg5VXyYuD72xm2enq0DPBor6iFOtQm6g/viewform" target="_blank">Families</a></li>
-      					<li><a href="#" class="disabled" target="_blank">Shadowing</a></li>
+      					<li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScSVx_rm9IX5LZMekmPFBCf2bbty3NAzdIVy2XKZoS7S79k9w/viewform" class="disabled" id="shadowing" target="_blank">Shadowing</a></li>
       				</ul>
         		</div>
         		<div class="col-md-6">
@@ -189,6 +189,13 @@
   </footer>
 	
 	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <script>
+    $(function() {
+      if($.now() > 1475711999) {
+        $('#shadowing').removeClass('disabled');
+      }
+    });
+  </script>
   <script src="js/bootstrap.min.js"></script>
 	<script src="js/main.js"></script>
 
