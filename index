@@ -11,13 +11,13 @@
 
   <title>Texas Pre-Dental Society | The University of Texas at Austin</title>
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.png">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/favicon.png">
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="Texas Pre-Dental Society">
-    <meta property="og:url" content="http://texaspredental.org">
-    <meta property="og:image" content="http://texaspredental.org/images/og_image.png">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Texas Pre-Dental Society">
+  <meta property="og:url" content="http://texaspredental.org">
+  <meta property="og:image" content="http://texaspredental.org/images/og_image.png">
 
   <!-- Custom Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
