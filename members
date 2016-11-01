@@ -176,7 +176,7 @@
         </div>
         <div class="col-md-4">
           <h2>Contact Us</h2>
-          <p><a href="officers.html">Email our officers</a> or reach out to us on social media and connect with us on LinkedIn!</p>
+          <p><a href="officers">Email our officers</a> or reach out to us on social media and connect with us on LinkedIn!</p>
           <ul class="list-inline social-media-icons">
             <li><a href="https://www.facebook.com/groups/texaspredental/" target="_blank"><i class="fa fa-3x fa-facebook"></i></a></li>
             <li><a href="https://twitter.com/texaspredent" target="_blank"><i class="fa fa-3x fa-twitter"></i></a></li>
