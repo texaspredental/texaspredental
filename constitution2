@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Official website for UT Austin’s flagship pre-dental society. Find out about upcoming events, opportunities, and everything pre-dental!">
+	<meta name="author" content="Rahul Dhir">
+
+	<title>Constitution and Bylaws | Texas Pre-Dental Society | The University of Texas at Austin</title>
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/favicon.png">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Texas Pre-Dental Society">
+  <meta property="og:url" content="http://texaspredental.org">
+  <meta property="og:image" content="http://texaspredental.org/images/og_image.png">
+
+	<!-- Custom Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
+
+	<!-- Theme CSS -->
+	<link href="css/main.css" rel="stylesheet">
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-81518803-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+
+</head>
+
+<body>
+
+  <header class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="/">
+          <img src="images/logo_white.png"> Texas Pre-Dental Society
+        </a>
+      </div>
+      <nav id="navbar" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="officers">Officers</a></li>
+          <li><a href="members">Members</a></li>
+          <li><a href="join">Join</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h1>Constitution and Bylaws</h1>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+          <small>Adopted September 5, 2001. Most recently revised November 16, 2016.</small>
+          
+          <h2>CONSTITUTION</h2>
+
+            <h3>ARTICLE I: DEFINITIONS</h3>
+
+              <h4>SECTION I: NAME</h4>
+              <p>
+                The name of this organization shall be known as "Texas Pre-Dental Society", alternately referred to as "TPS".
+              </p>
+
+              <h4>SECTION II: TERMS AND REFERENCES</h4>
+              <p>
+                In this document, the following words-"TPS", "Us", "We", "Our Organization", and "Association"-refer to Texas Pre-Dental Society.
+              </p>
+              <p>
+                "Pre-Dental" is defined as a professional track serving to prepare one for a career in the field of dentistry.
+              </p>
+              <p>
+                "FLOSS" refers to "For The Love Of Saving Smiles Committee".
+              </p>
+              <p>
+                "Paid Member" is defined as a participant of Texas Pre-Dental Society who has completed payment of membership fees. Participation includes, but is not limited to, attendance of any meetings or
+                events, and includes an attempt to join the organization.
+              </p>
+              <p>
+                "Long Session" is defined as a calendar period established by the academic calendar of The University of Texas at Austin.
+              </p>
+              <p>
+                "Semester" is defined as a calendar period in congruence with a semester within the most recent long session established in the academic calendar of The University of Texas at Austin.
+              </p>
+
+            <h3>ARTICLE II: MISSION STATEMENT</h3>
+            <p>
+              Texas Pre-Dental Society is an organization within The University of Texas at Austin College of Natural Sciences that educates students about the field of dentistry and prepares them for various aspects of the dental profession. Through facilitating events at which students can interact with dental school deans and admissions board members, and dentists, members are exposed to the expectations for dental school candidates. Membership provides access to group trips to dental schools within Texas, a shadowing program with local dentists, on-going community service events, and social events.
+            </p>
+
+            <h3>ARTICLE III: MEMBERSHIP</h3>
+
+              <h4>SECTION I: OPEN MEMBERSHIP</h4>
+              <p>
+                Membership shall be open to all persons regardless of race, national origin, creed or political affiliation, sex, sexual orientation, religion, age, disability, or veteran's status.
+              </p>
+
+              <h4>SECTION II: LIMITED MEMBERSHIP</h4>
+              <p>
+                Membership is limited to students and/or faculty of the University of Texas at Austin.
+              </p>
+
+            <h3>ARTICLE IV: ORGANIZATION</h3>
+
+              <h4>SECTION I: OPERATION</h4>
+              <p>
+                Texas Pre-Dental Society shall be operated on the basis of providing pre-dental resources for the betterment of its members. The purpose of this organization is to serve the students of The University of Texas at Austin. Organization and operation of TPS shall not occur for private interests.
+              </p>
+              <p>
+                Texas Pre-Dental Society shall abide by the policies of The University of Texas at Austin. The organization shall be operated in the purpose of enhancing the education of its members.
+              </p>
+
+              <h4>SECTION II: EXECUTIVE BOARD</h4>
+              <p>
+                The Executive Board shall consist of the officers of Texas Pre-Dental Society.
+              </p>
+              <p>
+                The Executive Board and its consisting officers shall serve as the governing body of Texas Pre-Dental Society. The Executive Board has the authority to appoint members to other designated offices to fulfill the work of the chapter as needed.
+              </p>
+              <p>
+                The Executive Board shall serve for one term, which is defined as two consecutive semesters.
+              </p>
+              <p>
+                The Executive Board shall be comprised of the officer positions as follows:
+              </p>
+              <ol>
+                <li>President</li>
+                <li>Vice-President</li>
+                <li>Secretary</li>
+                <li>Treasurer</li>
+                <li>Community Service Director</li>
+                <li>Public Relations Director</li>
+                <li>Social Director</li>
+                <li>FLOSS Director</li>
+              </ol>
+
+              <h4>SECTION III: MEMBERSHIP FEES</h4>
+              <p>
+                Membership fees shall be established in a reasonable amount upon initiation of every semester period at the discretion of the Treasurer of Texas Pre-Dental Society, in accordance with a two-thirds majority vote by the Executive Board.
+                Membership fees shall be established by the Treasurer for both yearly and semesterly segments, varying in price. 
+              </p>
+              <p>
+                All members of the Executive Board are required to complete payment of membership fees for Texas Pre-Dental Society.
+              </p>
+              <p>
+                A reasonable deadline for payment of membership fees for all members shall be established by the Treasurer of Texas Pre-Dental Society with a two-thirds vote by the Executive Board.
+              </p>
+
+          <h2>BYLAWS</h2>
+
+            <h3>PROVISION I: DUTIES AND POWERS OF THE EXECUTIVE BOARD</h3>
+            <p>
+              The Executive Board is responsible for establishing point requirements for members at the start of each semester. This must be done by two-thirds majority vote of all officers.
+            </p>
+            <p>
+              The officers are duly required to meet the point requirements set forth for active membership status.
+            </p>
+            <p>
+              All officers are responsible for meeting the same requirements set forth for all members, including payment of dues and attendance of all meetings. The President may excuse the absence of an officer at a general meeting, as he or she deems necessary.
+            </p>
+            <p>
+              The Executive Board shall hold meetings, hereinafter referred to as simply "officer meetings", at a reasonable schedule set by the President of Texas Pre-Dental Society and may be rescheduled as the President sees fit. Attendance of all officers at Executive Board meetings is mandatory. The Vice-President may excuse the absence of an officer at a general meeting, as he or she deems necessary.
+            </p>
+            
+              <h4>SECTION I: PRESIDENT</h4>
+              <p>
+                The duty of the President is as follows:
+              </p>
+              <p>
+                To serve as the main contact of Texas Pre-Dental Society to The University of Texas at Austin and its subsequent Dean's Office, to all dental schools, and organizations both internal and external to the University of Texas at Austin.
+              </p>
+              <p>
+                To oversee the actions of the Executive Committee and any other positions created in subsequent jurisdiction.
+              </p>
+              <p>
+                To determine the meeting schedule and location for each semester.
+              </p>
+              <p>
+                To provide a list of active members to various dental school as requested.
+              </p>
+
+              <h4>SECTION II: VICE-PRESIDENT</h4>
+              <p>
+                The duty of the Vice-President is as follows:
+              </p>
+              <p>
+                To aid the President in decision-making and other responsibilities.
+              </p>
+              <p>
+                To facilitate positive interpersonal relations between members to the best of his or her ability.
+              </p>
+              <p>
+                To facilitate positive interpersonal relations between the Executive Board to the best of his or her ability.
+              </p>
+              <p>
+                To assist the President and preside at chapter meetings in the absence or incapacity of the President.
+              </p>
+              <p>
+                To update and maintain membership points and attendance.
+              </p>
+              <p>
+                To plan and oversee trips to each Texas Dental School.
+              </p>
+              <p>
+                To organize and coordinate officer elections.
+              </p>
+              <p>
+                To oversee the officer demerit process.
+              </p>
+
+              <h4>SECTION III: SECRETARY</h4>
+              <p>
+                The duty of the Secretary is as follows:
+              </p>
+              <p>
+                To maintain and manage the TPS website.
+              </p>
+              <p>
+                To write and send out the TPS newsletter.
+              </p>
+              <p>
+                To manage Texas Pre-Dental Society's shadowing program.
+              </p>
+              <p>
+                To create and order merchandise for Texas Pre-Dental Society.
+              </p>
+
+              <h4>SECTION IV: TREASURER</h4>
+              <p>
+                The duty of the Treasurer is as follows:
+              </p>
+              <p>
+                To maintain the finances and operational account of Texas Pre-Dental Society, distributing funds to other officers as necessary.
+              </p>
+              <p>
+                To set and collect membership dues.
+              </p>
+              <p>
+                To maintain a current list of paid members and distribute this list to the other officers when necessary.
+              </p>
+              <p>
+                To arrange and organize fundraising events and activities to raise money for Texas Pre-Dental Society.
+              </p>
+              <p>
+                To order and provide food and drinks at each general meeting.
+              </p>
+
+              <h4>SECTION V: COMMUNITY SERVICE DIRECTOR</h4>
+              <p>
+                The duty of the Community Service Director is as follows:
+              </p>
+              <p>
+                To coordinate both one-time and ongoing community service events for members.
+              </p>
+              <p>
+                To update and maintain community service membership points.
+              </p>
+
+              <h4>SECTION VI: PUBLIC RELATIONS DIRECTOR</h4>
+              <p>
+                The duty of the Public Relations Director is as follows:
+              </p>
+              <p>
+                To market Texas Pre-Dental Society to students within The University of Texas at Austin.
+              </p>
+              <p>
+                To attend all orientation sessions, fairs, and other publicity events, or assign an appropriate representative to attend.
+              </p>
+              <p>
+                To coordinate and organize all public relations events and activities for members.
+              </p>
+              <p>
+                To update and maintain public relations membership points.
+              </p>
+              <p>
+                To manage all social media belonging to Texas Pre-Dental Society.
+              </p>
+
+              <h4>SECTION VII: SOCIAL DIRECTOR</h4>
+              <p>
+                The duty of the Social Director is as follows:
+              </p>
+              <p>
+                To coordinate and organize all social events and activities for members.
+              </p>
+              <p>
+                To update and maintain social membership points.
+              </p>
+
+              <h4>SECTION VIII: FLOSS CHAIR</h4>
+              <p>
+                The duty of the FLOSS Chair is as follows:
+              </p>
+              <p>
+                To lead and oversee the FLOSS Committee, as outlined in PROVISION I of BYLAWS.
+              </p>
+              <p>
+                To set up and coordinate additional meetings for the FLOSS Committee, outside of the general meetings.
+              </p>
+              <p>
+                To keep up with and maintain membership within the committee.
+              </p>
+              <p>
+                To keep up with and maintain positive relations with non-profit organizations associated with the field of dentistry.
+              </p>
+              <p>
+                To organize, coordinate, and host at least one FLOSS charity event each semester to raise money for non-profit organizations associated with the field of dentistry.
+              </p>
+
+            <h3>PROVISION II: UNEXPIRED TERMS</h3>
+            <p>
+              In the event of a vacancy of a member of the Executive Board, the remaining officers shall work together to fulfill the duties of the missing officer for the remainder of the term. The Executive Board may create a committee of appointed members, by two-thirds majority vote of the Executive Board, to assist them in fulfilling the duties of the missing officer, if necessary. Any committee formed in this manner will be overseen by the President.
+            </p>
+              In the event of a vacancy of the President, the Vice-President shall assume an informal role as the President, and the remaining officers shall work together to fulfill the duties of the missing officer for the remainder of the term.
+            </p>
+            <p>
+              All committees formed in this manner shall be dissolved at the conclusion of the existing term.
+            </p>
+
+            <h3>PROVISION III: OFFICER MISCONDUCT AND REMOVAL</h3>
+            <p>
+              An officer can be removed from office for failing to fulfill the duties and responsibilities of the position specified in the Constitution and Bylaws of Texas Pre-Dental Society.
+            </p>
+
+              <h4>SECTION I: DEMERIT SYSTEM</h4>
+              <p>
+                Officers are subject to discipline on the basis of a demerit system. The demerit process is to be handled by the Vice President with the concurrence of all officers. The demerit system is as follows:
+              </p>
+              
+                <h5>SUBSECTION I: FIRST DEMERIT</h5>
+                Upon receiving his or her first demerit, an officer is required to complete and document three hours of community service. The documented records must be provided to the entire officer board for approval by a simple majority vote.
+                
+                <h5>SUBSECTION II: SECOND DEMERIT</h5>
+                Upon receiving a second demerit, the membership privileges of the officer are revoked. Membership privileges include, but are not limited to, voting, socials, dental school trips, dinner with deans, and food at meetings.
+                
+                <h5>SUBSECTION III: THIRD DEMERIT</h5>
+                Upon receiving a third demerit, the officer is subject to removal from their position. The removal procedure will follow the guidelines as stated in PROVISION III SECTION II of BYLAWS.
+                
+                <h5>SUBSECTION IV: APPEAL PROCESS</h5>
+                Officers are allowed to appeal. The appeal process is as follows:
+                A special officer meeting will occur in which the officer is granted the ability to express their reasoning for an appeal. Then a majority vote by the remaining officers is required for the demerit to be overturned.
+                
+                <h5>SUBSECTION V: SUPPLEMENTARY PROCEDURES</h5>
+                Under the scenario where the Vice-President is subject to a demerit, the demerit process will be administered by the President.
+
+              <h4>SECTION II: REMOVAL PROCEDURE</h4>
+              <p>
+                The removal procedure is as follows:
+              </p>
+              <p>
+                The Vice-President shall provide written notification to the officer intended to be removed, and said officer will be given the opportunity to resign from his or her position.
+              </p>
+              <p>
+                In the case that the officer facing removal chooses to not resign, the President and Vice-President shall provide written notification to the organization of said officer's removal from office.
+              </p>
+
+            <h3>PROVISION IV: ESTABLISHMENT OF THE FLOSS COMMITTEE</h3>
+            <p>
+              Texas Pre-Dental Society shall have a separate philanthropic committee known as For the Love Of Saving Smiles, referred to as the FLOSS Committee. This committee shall be led by the FLOSS Chair (refer to BYLAWS, ARTICLE I) and will comprise of all members and officers of Texas Pre-Dental Society that wish to join. Continued membership of any members and officers in the committee shall be determined by the FLOSS Chair.
+            </p>
+            <p>
+              The FLOSS Committee will organize events and activities with the goal of raising money for non-profit organizations associated with the field of dentistry.
+            </p>
+            <p>
+              All funds raised by the FLOSS Committee shall be donated to a non-profit organization determined by the FLOSS Chair and members of the committee.
+            </p>
+
+            <h3>ARTICLE V: AMENDMENT PROCEDURE</h3>
+            <p>
+              At least one meetings notice of a proposed amendment to this Constitution shall be given to all paid members and the Executive Board. Each individual amendment must be handled in this manner. Amendments to the constitution shall be passed individually and not as a group.
+            </p>
+            <p>
+              Amendments shall require a two-thirds majority vote by the Executive Board, followed by a two-thirds majority vote of the paid present at a meeting to vote on proposed amendments, to be passed.
+            </p>
+            <p>
+              Any paid member may present amendment proposals at any time to the Executive Board for consideration and voting.
+            </p>
+
+            <h3>ARTICLE VI: DISSOLUTION</h3>
+
+              <h4>SECTION I: DISSOLVING THE CONSTITUTION</h4>
+              <p>
+                A two-thirds majority vote by the Executive Board, followed by a two-thirds majority vote of all paid members of the organization, is required to dissolve this Constitution of Texas Pre-Dental Society.
+              </p>
+
+              <h4>SECTION II: DISBURSEMENT OF FUNDS</h4>
+              <p>
+                If Texas Pre-Dental Society is dissolved by the procedure outlined in BYLAWS, ARTICLE X, SECTION I, all funds of the organization, both in the student organization bank account and any not already deposited, will be evenly dispersed among all paid members and the Executive Board, minus that spent paying outstanding debts or necessary reimbursements.
+              </p>
+
+            <h3>PROVISION VII: ELECTION PROCEDURES AND ELIGIBILITY</h3>
+
+              <h4>SECTION I: GENERAL ELECTION PROCEDURES</h4>
+              <p>
+                Elections for offices comprising the Executive Board will be held at the final meeting of the fall semester. Elected positions include: President, Vice-President, Secretary, Treasurer, Community Service Director, Public Relations Director, Social Director, and FLOSS Director.
+              </p>
+              <p>
+                In order to run for office, every candidate must complete a formal application and interview with a panel of current officers prior to elections. This panel will include the officer holding the position that the candidate is running for. This panel will exclude all returning officers that are simultaneously running for the interiewee's position. This exclusion clause shall override the inclusion clause, in the event of a conflict. The applications will be due on a date that is assigned by the President, at least two weeks prior to the elections. At this time, the President will set up necessary meetings with all the candidates.
+              </p>
+              <p>
+                After interviewing all the candidates, all officers (excluding officers running for the position being discussed) shall discuss and vote, by two-thirds majority, on which candidates will be placed on the election ballot. This shall be done by the officers with the utmost ethical and moral standards. This process must all take place at least one week before the elections are to take place.
+              </p>
+              <p>
+                Officers shall hold no more than one elected position during their term of office.
+              </p>
+
+              <h4>SECTION II: RUNNING FOR PRESIDENCY</h4>
+              <p>
+                Only current officers are eligible to run for President of Texas Pre-Dental Society.
+              </p>
+              <p>
+                In the event that only one officer runs for President, said officer must be approved with a two-thirds majority vote by the rest of the Executive Board to run for presidency.
+              </p>
+              <p>
+                If not approved by the Executive Board in the procedure stated above, the position of President shall open up to paid members in ranking of Distinguished, Honorable, and then Active.
+              </p>
+              <p>
+                In the event that no officers run for President, the position for presidency will open up to the members stated above, in the order stated above.
+              </p>
+
+              <h4>SECTION III: ELECTION-DAY PROCEDURES</h4>
+              <p>
+                Eligible voters are all paid members of the association who are present during the fall elections, which take place during the final meeting of the semester. When signing in to the meeting, each paid member will receive one ballot for each position, from officers that are not participating in the election.
+              </p>
+              <p>
+                Each candidate shall give a presentation to the members describing their reasons for running. Candidates running for President shall have three minutes to present, while all other candidates will have two minutes to present. Candidates within each position shall present in alphabetical order by last name.
+              </p>
+              <p>
+                Elections are held by secret ballot. The candidate achieving the most votes for each position shall be declared the winner. Each ballot is counted by officers not running for the position being voted on.
+              </p>
+
+            <h3>PROVISION VIII: COMMITTEES</h3>
+            <p>
+              The President may appoint special committees for special projects and/or tasks under the supervision of the appropriate officer. Other officers may appoint special committees if necessary, with approval from the President.
+            </p>
+
+          <small>REVISED ON November 16, 2016</small>
+          
+          <h2>Iterations</h2>
+          <ul class="list-unstyled">
+            <li><a href="/files/constitution_and_bylaws_2015-02-18.pdf" target="_blank">February 18, 2015 - First Revision</a></li>
+            <li><a href="/files/constitution_and_bylaws_2001-11-05.pdf" target="_blank">September 5, 2001 - Original</a></li>
+          </ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h2>Looking for Something?</h2>
+          <div class="col-sm-4">
+            <ul class="list-unstyled">
+              <li><a href="/">Home</a></li>
+              <li><a href="officers">Officers</a></li>
+              <li><a href="members">Members</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-4">
+            <ul class="list-unstyled">
+              <li><a href="join">Join</a></li>
+              <li><a href="#" class="disabled">Blog</a></li>
+              <li><a href="http://www.zazzle.com/texaspredental" target="_blank">Merchandise</a></li>
+            </ul>
+          </div>
+          <div class="col-sm-4">
+            <ul class="list-unstyled">
+              <li><a href="constitution">Constitution</a></li>
+              <li><a href="privacy-policy">Privacy Policy</a></li>
+              <li><a href="terms">Terms and Conditions</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <h2>Contact Us</h2>
+          <p><a href="officers">Email our officers</a> or reach out to us on social media and connect with us on LinkedIn!</p>
+          <ul class="list-inline social-media-icons">
+            <li><a href="https://www.facebook.com/groups/texaspredental/" target="_blank"><i class="fa fa-3x fa-facebook"></i></a></li>
+            <li><a href="https://twitter.com/texaspredent" target="_blank"><i class="fa fa-3x fa-twitter"></i></a></li>
+            <li><a href="https://www.instagram.com/texaspredental/" target="_blank"><i class="fa fa-3x fa-instagram"></i></a></li>
+            <li><a href="https://www.linkedin.com/company/9292952" target="_blank"><i class="fa fa-3x fa-linkedin"></i></a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="row text-center">
+        
+     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
+      </div>
+    </div>
+  </footer>
+	
+	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js"></script>
+	<script src="js/main.js"></script>
+
+</body>
+
+</html>
