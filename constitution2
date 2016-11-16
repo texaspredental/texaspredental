@@ -20,11 +20,30 @@
   <meta property="og:image" content="http://texaspredental.org/images/og_image.png">
 
 	<!-- Custom Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,700" rel="stylesheet">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
 	<!-- Theme CSS -->
 	<link href="css/main.css" rel="stylesheet">
+
+  <style>
+    h3, h4, h5, h6 {
+      font-size: 13px;
+      font-weight: 300;
+    }
+    h3 {
+      font-weight: 700;
+    }
+    h4 {
+      font-weight: 600;
+      margin-top: 15px;
+    }
+    h5 {
+      font-weight: 400;
+      font-style: italic;
+      margin-top: 15px;
+    }
+  </style>
 
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -312,24 +331,18 @@
                 To update and maintain social membership points.
               </p>
 
-              <h4>SECTION VIII: FLOSS CHAIR</h4>
+              <h4>SECTION VIII: FLOSS DIRECTOR</h4>
               <p>
-                The duty of the FLOSS Chair is as follows:
+                The duty of the FLOSS DIRECTOR is as follows:
               </p>
               <p>
-                To lead and oversee the FLOSS Committee, as outlined in PROVISION I of BYLAWS.
+                To provide contributions to non-profit organizations associated with the field of dentistry.
               </p>
               <p>
-                To set up and coordinate additional meetings for the FLOSS Committee, outside of the general meetings.
+                To lead and oversee the FLOSS Committee, as outlined in BYLAWS, PROVISION IV.
               </p>
               <p>
-                To keep up with and maintain membership within the committee.
-              </p>
-              <p>
-                To keep up with and maintain positive relations with non-profit organizations associated with the field of dentistry.
-              </p>
-              <p>
-                To organize, coordinate, and host at least one FLOSS charity event each semester to raise money for non-profit organizations associated with the field of dentistry.
+                To update and maintain membership within the committee.
               </p>
 
             <h3>PROVISION II: UNEXPIRED TERMS</h3>
@@ -359,7 +372,7 @@
                 Upon receiving a second demerit, the membership privileges of the officer are revoked. Membership privileges include, but are not limited to, voting, socials, dental school trips, dinner with deans, and food at meetings.
                 
                 <h5>SUBSECTION III: THIRD DEMERIT</h5>
-                Upon receiving a third demerit, the officer is subject to removal from their position. The removal procedure will follow the guidelines as stated in PROVISION III SECTION II of BYLAWS.
+                Upon receiving a third demerit, the officer is subject to removal from their position. The removal procedure will follow the guidelines as stated in BYLAWS, PROVISION III SECTION II.
                 
                 <h5>SUBSECTION IV: APPEAL PROCESS</h5>
                 Officers are allowed to appeal. The appeal process is as follows:
@@ -381,7 +394,7 @@
 
             <h3>PROVISION IV: ESTABLISHMENT OF THE FLOSS COMMITTEE</h3>
             <p>
-              Texas Pre-Dental Society shall have a separate philanthropic committee known as For the Love Of Saving Smiles, referred to as the FLOSS Committee. This committee shall be led by the FLOSS Chair (refer to BYLAWS, ARTICLE I) and will comprise of all members and officers of Texas Pre-Dental Society that wish to join. Continued membership of any members and officers in the committee shall be determined by the FLOSS Chair.
+              Texas Pre-Dental Society shall have a separate philanthropic committee known as For the Love Of Saving Smiles, referred to as the FLOSS Committee. This committee shall be led by the FLOSS Chair and will comprise of all members and officers of Texas Pre-Dental Society that wish to join. Continued membership of any members and officers in the committee shall be determined by the FLOSS Chair.
             </p>
             <p>
               The FLOSS Committee will organize events and activities with the goal of raising money for non-profit organizations associated with the field of dentistry.
@@ -410,7 +423,7 @@
 
               <h4>SECTION II: DISBURSEMENT OF FUNDS</h4>
               <p>
-                If Texas Pre-Dental Society is dissolved by the procedure outlined in BYLAWS, ARTICLE X, SECTION I, all funds of the organization, both in the student organization bank account and any not already deposited, will be evenly dispersed among all paid members and the Executive Board, minus that spent paying outstanding debts or necessary reimbursements.
+                If Texas Pre-Dental Society is voted to be dissolved, all funds of the organization, both in the student organization bank account and any not already deposited, will be evenly dispersed among all paid members and the Executive Board, minus that spent paying outstanding debts or necessary reimbursements.
               </p>
 
             <h3>PROVISION VII: ELECTION PROCEDURES AND ELIGIBILITY</h3>
@@ -420,7 +433,7 @@
                 Elections for offices comprising the Executive Board will be held at the final meeting of the fall semester. Elected positions include: President, Vice-President, Secretary, Treasurer, Community Service Director, Public Relations Director, Social Director, and FLOSS Director.
               </p>
               <p>
-                In order to run for office, every candidate must complete a formal application and interview with a panel of current officers prior to elections. This panel will include the officer holding the position that the candidate is running for. This panel will exclude all returning officers that are simultaneously running for the interiewee's position. This exclusion clause shall override the inclusion clause, in the event of a conflict. The applications will be due on a date that is assigned by the President, at least two weeks prior to the elections. At this time, the President will set up necessary meetings with all the candidates.
+                In order to run for office, every candidate must complete a formal application and interview with a panel of current officers prior to elections. This panel will include the officer holding the position that the candidate is running for. This panel will exclude all returning officers that are simultaneously running for the interviewee's position. This exclusion clause shall override the inclusion clause, in the event of a conflict. The applications will be due on a date that is assigned by the President, at least two weeks prior to the elections. At this time, the President will set up necessary meetings with all the candidates.
               </p>
               <p>
                 After interviewing all the candidates, all officers (excluding officers running for the position being discussed) shall discuss and vote, by two-thirds majority, on which candidates will be placed on the election ballot. This shall be done by the officers with the utmost ethical and moral standards. This process must all take place at least one week before the elections are to take place.
