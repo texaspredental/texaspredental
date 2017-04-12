@@ -11,195 +11,197 @@
 
 	<title>Members | Texas Pre-Dental Society | The University of Texas at Austin</title>
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.png">
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="images/favicon.png">
 
-    <!-- Open Graph -->
-    <meta property="og:title" content="Texas Pre-Dental Society">
-    <meta property="og:url" content="http://texaspredental.org">
-    <meta property="og:image" content="http://texaspredental.org/images/og_image.png">
+		<!-- Open Graph -->
+		<meta property="og:title" content="Texas Pre-Dental Society">
+		<meta property="og:url" content="http://texaspredental.org">
+		<meta property="og:image" content="http://texaspredental.org/images/og_image.png">
 
 	<!-- Custom Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
 	<!-- Theme CSS -->
 	<link href="css/main.css" rel="stylesheet">
 
 	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-	  ga('create', 'UA-81518803-1', 'auto');
-	  ga('send', 'pageview');
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-81518803-1', 'auto');
+		ga('send', 'pageview');
 	</script>
 
 </head>
 
 <body>
 
-  <header class="navbar navbar-inverse navbar-fixed-top">
-    <div class="container">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-          <img src="images/logo_white.png"> Texas Pre-Dental Society
-        </a>
-      </div>
-      <nav id="navbar" class="navbar-collapse collapse">
-        <ul class="nav navbar-nav navbar-right">
-          <li><a href="officers">Officers</a></li>
-          <li><a href="members">Members</a></li>
-          <li><a href="join">Join</a></li>
-        </ul>
-      </nav>
-    </div>
-  </header>
+	<header class="navbar navbar-inverse navbar-fixed-top">
+		<div class="container">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="/">
+					<img src="images/logo_white.png"> Texas Pre-Dental Society
+				</a>
+			</div>
+			<nav id="navbar" class="navbar-collapse collapse">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="officers">Officers</a></li>
+					<li><a href="members">Members</a></li>
+					<li><a href="join">Join</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
 
-  <section class="header">
-    <div class="container">
-    	<div class="row">
-    		<div class="col-md-12 text-center">
-    			<h1>Member Portal</h1>
-    		</div>
-    	</div>
-    </div>
-  </section>
+	<section class="header">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h1>Member Portal</h1>
+				</div>
+			</div>
+		</div>
+	</section>
 
-  <section class="member-links">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6 text-center">
-          <img src="images/membership.png" class="img-responsive">
-          <br><br>
-          <a href="https://docs.google.com/spreadsheets/d/1SPDbE1nNfv9I5ncXYs7kroNgwuCRnuO46mKa97EMKKU/pubhtml?gid=1054787801&single=true" class="btn btn-primary btn-lg" target="_blank">Check Your Status</a>
-          <br><br>
-        </div>
-        <div class="col-sm-6">
-        	<div class="row">
-        		<div class="col-md-6">
-        			<h2>General</h2>
-      				<ul class="list-unstyled">
-                <li><a href="#" class="disabled" target="_blank">Dental School Trips</a></li>
-      					<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfqd-W8uwdpvTiUvGFg5VXyYuD72xm2enq0DPBor6iFOtQm6g/viewform" target="_blank">Families</a></li>
-      					<li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScSVx_rm9IX5LZMekmPFBCf2bbty3NAzdIVy2XKZoS7S79k9w/viewform" class="disabled" id="shadowing" target="_blank">Shadowing</a></li>
-                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLSexoaaJVhkWjuLtau1SMeZoFICxiGToJ3rjMpUNbSEpeX3oAg/viewform"   target="_blank">Officer Application</a></li>
-      				</ul>
-        		</div>
-        		<div class="col-md-6">
-      				<h2>Meeting Presentations</h2>
-      				<ul class="list-unstyled">
-      					<li><a href="https://docs.google.com/presentation/d/1EjEoXWQK-pPmzE_YUux6Aw3SR0tAAreLbdlwnzqgBsg/pub?start=false&loop=false&delayms=60000" target="_blank">First General Meeting</a></li>
-      					<li><a href="https://docs.google.com/presentation/d/19JKpw2klKQoZqdEPKqZgLrRMLXrKoR5PCj6cK7xgTbk/pub?start=false&loop=false&delayms=60000" target="_blank">Second General Meeting</a></li>
-      					<li><a href="https://docs.google.com/presentation/d/1Dt_U1P-l4wTW85HgOHOSsufNObmiDJBfaurn8C8Tbyw/pub?start=false&loop=false&delayms=3000" target="_blank">Third General Meeting</a></li>
-      					<li><a href="https://docs.google.com/presentation/d/1P_lf_OfaWLbGQ2pSEXXH38Ree578oo87JUfY7EqlTpI/pub?start=false&loop=false&delayms=3000"  target="_blank">Fourth General Meeting</a></li>
-      					<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vS7frOxCgZ95iWiiFPKZyS8W3MYnTtn_ZVq8o2b59ZTsnkrJMEyRo7f0jdyYleWJQv-o4k-NID160gP/pub?start=false&loop=false&delayms=60000" target="_blank">Fifth General Meeting</a></li>
-      				</ul>
-        		</div>
-          </div>
-          <div class="row">
-        		<div class="col-md-6">
-      	  		<h2>Community Service</h2>
-      				<ul class="list-unstyled">
-                <li><a href="files/cs_log.pdf" target="_blank">Community Service Log</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfrtgyt5KsdVJGOj2inrGP7wT4paUP9NjBqrOSJb21QuQKQfg/viewform?c=0&w=1" target="_blank">Micah 6 Food Pantry</a></li>
-                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLSfWLZrooeA5ZbJE3-aJ8PvBkq2xXLu7OEVlpt5mFtZeojIhnQ/viewform?c=0&w=1" target="_blank">Westminster Halloween Party</a></li>
-                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLSfRuYcTwJuTZFw-ng-C-oHAzIeX0EFpnC2YzfioC3xIBL0WWg/viewform?c=0&w=1" target="_blank">Westminster Fall Party</a></li>
-      				</ul>
-        		</div>
-            <div class="col-md-6">
-              <h2>Public Relations</h2>
-              <ul class="list-unstyled">
-                <li><a href="https://docs.google.com/spreadsheets/d/1aMLGrJhU3t3HntTC5QJ8dkjWE9MVnbMTP2180ty5O_4/edit?usp=sharing" target="_blank">Tabling Sign-up</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeUhVkn-Xk0xJ3zgTc_ZkcSjRTzy6stgFLvuyEkjqJbfubXIA/viewform" target="_blank">New Member Form</a> (For Use During Tabling)</li>
-                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScD7QOzo8ZsEcfyZiWN9psqV4Q1oX04JR5_CTBXXX07PcqWhA/viewform?c=0&w=1" target="_blank">UT Family Weekend Tabling Sign-up</a></li>
-
-              </ul>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6">
-              <h2>Social</h2>
-              <ul class="list-unstyled">
-                <li><a href="https://goo.gl/forms/YJKKYZucr1h2Eq1a2" target="_blank">TPS Bowling</a></li>
-                <li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScH8ZlZqHRBMr1-fFm3D-sgzOownGxFeHOrLLor-s6jLflaQw/viewform?c=0&w=1" target="_blank">Kayaking Social</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSew_XL3LTjUSv82j5OFH_0Mb3LSb1k-1YA8inNLsXHyPLHxFA/viewform?c=0&w=1" target="_blank">Movie Night</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdxDTBQtg7G45sAaf1bGOt__I8A8Azb56YAmW95zIUX7y_drw/viewform?c=0&w=1" target="_blank">TPS Gift Exchange</a></li>
-              </ul>
-            </div>
-            <div class="col-md-6">
-              <h2>FLOSS</h2>
-              <ul class="list-unstyled">
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4PRnvEbVndKc86w914bmR6qzPSTkVHfECr54IdADZKkBy0g/viewform" target="_blank">FLOSS Committee Application</a></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-    	</div>
-    </div>
-  </section>
+	<section class="member-links">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6 text-center">
+					<img src="images/membership.png" class="img-responsive">
+					<br><br>
+					<a href="https://docs.google.com/spreadsheets/d/1o8ocJA_x8eCsJFGnI5VpG-6DMKJ-OWSwaqDM0mwLN08/pubhtml?gid=1054787801&single=true" class="btn btn-primary btn-lg" target="_blank">Check Your Status</a>
+					<br><br>
+				</div>
+				<div class="col-sm-6">
+					<div class="row">
+						<div class="col-md-6">
+							<h2>General</h2>
+							<ul class="list-unstyled">
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScA9nnmJIWx6C1mI2TCvbayDOhQxeMpUMBKSz43M6n7IhqvUg/viewform" target="_blank">Shadowing Application</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc2yndL-FPoEky9PSfKMN0-ROuEcvSswP74yxu9Ei7ksdRnDw/viewform" target="_blank">T-Shirt Order Form</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSf4aIF_GBWK3J3gHgyq2h0PiNzrws8IHKbM6iaDPBByChEp0w/viewform" target="_blank">Big/Little Form</a></li>
+								<li><a href="https://docs.google.com/forms/d/14_nyFlS6N8EBtdAq4QusOfpl7GQbkYsiPeS_iBiPKnQ/viewform" target="_blank">UTSD Houston Dental School Trip</a></li>
+								<li><a href="https://docs.google.com/forms/d/1XtD6bWJjU42PfoJI5u3E0xMamVmv-Tv1XOUboAVFqHM/viewform" target="_blank">UTHSCSA Dental School Trip</a></li>
+								<li><a href="https://docs.google.com/forms/d/1Xf-YfrIvzq1jA6qtMpSTF-6yqREFJWDYlV5-zBF0Ghc/viewform" target="_blank">Texas A&M College of Dentistry Dental School Trip</a></li>
+								<li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLScBeCJ2yOBJohBV6h2kLmXQlblyiB3e3b73lOBIWAowV43E1A/viewform" target="_blank">Fundraiser 1</a></li>
+								<li><a href="https://docs.google.com/a/texaspredental.org/forms/d/e/1FAIpQLSd2_mmywHPdAaYPqUg8ttLWGB6Z7gIbPttQ2h4jBnyG615kag/viewform" target="_blank">Fundraiser 2</a></li>
+								<li><a href="course-reviews">Course Reviews</a></li>
+							</ul>
+						</div>
+						<div class="col-md-6">
+							<h2>Meeting Presentations</h2>
+							<ul class="list-unstyled">
+								<li><a href="https://docs.google.com/presentation/d/1b_1Plmm8-R61XZSatkrS9UN3ri648J-IhIzgJIFMkkI/pub?start=false&loop=false&delayms=60000" target="_blank">First General Meeting</a></li>
+								<li><a href="https://docs.google.com/presentation/d/1o4bQ8MQJ901evFp1nczr1lOn6ADVBV_orhLVcMAwJms/pub?start=false&loop=false&delayms=60000" target="_blank">Second General Meeting</a></li>
+								<li><a href="https://docs.google.com/presentation/d/1y5lzfm23dT9R5u8yfPWZ6hiftt-MBLpV5H30_mhURls/pub?start=false&loop=false&delayms=60000" target="_blank">Third General Meeting</a></li>
+								<li><a href="https://docs.google.com/presentation/d/1QidDCwe9nUlewt0FIV7cr2TRUA-PG2Rgj6AhZe23KOw/pub?start=false&loop=false&delayms=60000" target="_blank">Fourth General Meeting</a></li>
+								<li><a href="https://docs.google.com/presentation/d/1qwtU-SDiBXQtUBlFa4UFaEOtBIp8-xZqgmEHp-l0MvY/pub?start=false&loop=false&delayms=60000" class="disabled" target="_blank">Fifth General Meeting</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<h2>Community Service</h2>
+							<ul class="list-unstyled">
+								<li><a href="files/cs_log.pdf" target="_blank">Community Service Log</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfUaxrEOmmnBzRt0NHJNjMHuqYfe0SgkR59ajhTQYjZl-3UTw/viewform" target="_blank">Manos De Cristos Application</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdXcfshxjAazb5iEFrWS-f3OsuiDY0KS_H45M_QZJC3WPe4nQ/viewform" target="_blank">Austin Marathon</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSffegCFpl59nYwklduqXp8Irap8L_rSGNZ6ENqbDtoGUbx9Tg/viewform" target="_blank">Westminister #1</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfRuYcTwJuTZFw-ng-C-oHAzIeX0EFpnC2YzfioC3xIBL0WWg/viewform" target="_blank">Westminister #2</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeFr4GSfF7njddAnvFts85K2mUag7kklBs_DTv4k-e4b5CDWw/viewform" target="_blank">Longhorn Run</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfWLZrooeA5ZbJE3-aJ8PvBkq2xXLu7OEVlpt5mFtZeojIhnQ/viewform" target="_blank">Westminister #3</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc9IbefXd7GhhySI7nuel7vEAzUyNwMoi3EsyUBVmD_qkHFXA/viewform" target="_blank">Statesman 10K</a></li>
+							</ul>
+						</div>
+						<div class="col-md-6">
+							<h2>Public Relations</h2>
+							<ul class="list-unstyled">
+								<li><a href="https://docs.google.com/spreadsheets/d/1fmDYfK5nlpVXawJC1DoFDLgNJKV7XGEkVGoVmHZFD68/edit#gid=0" target="_blank">Tabling Sign-up</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeUhVkn-Xk0xJ3zgTc_ZkcSjRTzy6stgFLvuyEkjqJbfubXIA/viewform" target="_blank">New Member Form</a> (For Use During Tabling)</li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDKOf_fhd8IqvZQ7EEAKMl_UwGhioE-uJKncybSvWhf_ixcQ/viewform" target="_blank">Explore UT Tabling</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfau8OkVJ5JOe-O0s-TVraYOwBlbjgY5UUZnfiTEdVD94Ojtg/viewform" target="_blank">Course Review Form</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<h2>Social</h2>
+							<ul class="list-unstyled">
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfsLNemjQ_RUJgC8xv7_AgBMF-BybXaIobgFRH9Vv4WJChcZg/viewform" target="_blank">Bowling Night</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScU1zJdplgF1226ojtxerpTqM8cm7kyRHnP5GN2KJ2ByZXaUg/viewform" target="_blank">Top Golf</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdS_r_j7L8uLM1zPMeJUvOl0yv05jpx4v5pJit_2pQmt1GOPQ/viewform" target="_blank">Kayaking</a></li>
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfNWlMmd4ZVgNvI4rF_KZccsWn-zyO9FXe7H4PQAddL2_aZsQ/viewform" target="_blank">Boat Party RSVP</a></li>
+							</ul>
+						</div>
+						<div class="col-md-6">
+							<h2>FLOSS</h2>
+							<ul class="list-unstyled">
+								<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4PRnvEbVndKc86w914bmR6qzPSTkVHfECr54IdADZKkBy0g/viewform" target="_blank">FLOSS Committee Application</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 
 	<footer>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8">
-          <h2>Looking for Something?</h2>
-          <div class="col-sm-4">
-            <ul class="list-unstyled">
-              <li><a href="/">Home</a></li>
-              <li><a href="officers">Officers</a></li>
-              <li><a href="members">Members</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-4">
-            <ul class="list-unstyled">
-              <li><a href="join">Join</a></li>
-              <li><a href="#" class="disabled">Blog</a></li>
-              <li><a href="http://www.zazzle.com/texaspredental" target="_blank">Merchandise</a></li>
-            </ul>
-          </div>
-          <div class="col-sm-4">
-            <ul class="list-unstyled">
-              <li><a href="constitution">Constitution</a></li>
-              <li><a href="privacy-policy">Privacy Policy</a></li>
-              <li><a href="terms">Terms and Conditions</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <h2>Contact Us</h2>
-          <p><a href="officers">Email our officers</a> or reach out to us on social media and connect with us on LinkedIn!</p>
-          <ul class="list-inline social-media-icons">
-            <li><a href="https://www.facebook.com/groups/texaspredental/" target="_blank"><i class="fa fa-3x fa-facebook"></i></a></li>
-            <li><a href="https://twitter.com/texaspredent" target="_blank"><i class="fa fa-3x fa-twitter"></i></a></li>
-            <li><a href="https://www.instagram.com/texaspredental/" target="_blank"><i class="fa fa-3x fa-instagram"></i></a></li>
-            <li><a href="https://www.linkedin.com/company/9292952" target="_blank"><i class="fa fa-3x fa-linkedin"></i></a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="row text-center">
-        
-     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
-      </div>
-    </div>
-  </footer>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8">
+					<h2>Looking for Something?</h2>
+					<div class="col-sm-4">
+						<ul class="list-unstyled">
+							<li><a href="/">Home</a></li>
+							<li><a href="officers">Officers</a></li>
+							<li><a href="members">Members</a></li>
+						</ul>
+					</div>
+					<div class="col-sm-4">
+						<ul class="list-unstyled">
+							<li><a href="join">Join</a></li>
+							<li><a href="#" class="disabled">Blog</a></li>
+							<li><a href="http://www.zazzle.com/texaspredental" target="_blank">Merchandise</a></li>
+						</ul>
+					</div>
+					<div class="col-sm-4">
+						<ul class="list-unstyled">
+							<li><a href="constitution">Constitution</a></li>
+							<li><a href="privacy-policy">Privacy Policy</a></li>
+							<li><a href="terms">Terms and Conditions</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<h2>Contact Us</h2>
+					<p><a href="officers">Email our officers</a> or reach out to us on social media and connect with us on LinkedIn!</p>
+					<ul class="list-inline social-media-icons">
+						<li><a href="https://www.facebook.com/groups/texaspredental/" target="_blank"><i class="fa fa-3x fa-facebook"></i></a></li>
+						<li><a href="https://twitter.com/texaspredent" target="_blank"><i class="fa fa-3x fa-twitter"></i></a></li>
+						<li><a href="https://www.instagram.com/texaspredental/" target="_blank"><i class="fa fa-3x fa-instagram"></i></a></li>
+						<li><a href="https://www.linkedin.com/company/9292952" target="_blank"><i class="fa fa-3x fa-linkedin"></i></a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="row text-center">
+				
+		 <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2017 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
+			</div>
+		</div>
+	</footer>
 	
 	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-  <script>
-    $(function() {
-      if($.now() > 1475729999000) {
-        $('#shadowing').removeClass('disabled');
-      }
-    });
-  </script>
-  <script src="js/bootstrap.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
 	<script src="js/main.js"></script>
 
 </body>

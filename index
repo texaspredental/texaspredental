@@ -80,12 +80,11 @@
         <div class="col-md-3">
           <h2>Meeting Schedule</h2>
           <ul class="list-unstyled meeting-list">
-            <li><strong>Sept. 7, 2016</strong> at 7 PM in WAG 101</li>
-            <li><strong>Sept. 21, 2016</strong> at 7 PM in WAG 101</li>
-            <li><strong>Oct. 5, 2016</strong> at 7 PM in WAG 101</li>
-            <li><strong>Oct. 19, 2016</strong> at 7 PM in WAG 101</li>
-            <li><strong>Nov. 9, 2016</strong> at 7 PM in WAG 101</li>
-            <li><strong>Nov. 16, 2016</strong> at 7 PM in WAG 101</li>
+            <li><strong>Feb. 1, 2017</strong> at 7 PM in PAI 2.48</li>
+            <li><strong>Feb. 15, 2017</strong> at 7 PM in PAI 2.48</li>
+            <li><strong>Mar. 1, 2017</strong> at 7 PM in PAI 2.48</li>
+            <li><strong>Mar. 29, 2017</strong> at 7 PM in PAI 2.48</li>
+            <li><strong>Apr. 19, 2017</strong> at 7 PM in PAI 2.48</li>
           </ul>
         </div>
         <div class="col-md-9">
@@ -141,7 +140,7 @@
         </div>
       </div>
       <div class="row text-center">
-        <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
+        <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2017 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
       </div>
     </div>
   </footer>

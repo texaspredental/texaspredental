@@ -64,18 +64,28 @@ section {
 	margin: 25px 0;
 }
 
-// .jumbotron {
-// 	background: url('../images/banner-4.png') no-repeat scroll center center;
-// 	background-size: cover;
-// 	color: #fff;
-// 	text-shadow: 0 0 25px #000;
-// }
-
 section.header {
 	margin: 0;
 	background-color: #eee;
 	padding: 50px 0;
 	color: #000;
+}
+
+section.header-with-background {
+	background-size: cover;
+	padding: 230px 0;
+
+	h1 {
+		color: #fff;
+		text-shadow: 0 0 10px #000;
+	}
+}
+
+@media(max-width: $screen-xs) {
+	section.header-with-background {
+		background-size: contain;
+		padding: 48px 0 0 0;
+	}
 }
 
 section.officers {

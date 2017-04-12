@@ -25,6 +25,11 @@
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
 
   <!-- Theme CSS -->
+  <style>
+    section.header-with-background{
+	    background: url(images/2017_officers.jpg) no-repeat center center;    
+    }
+  </style>
   <link href="css/main.css" rel="stylesheet">
 
   <script>
@@ -63,12 +68,12 @@
     </div>
   </header>
 
-  <section class="header">
+  <section class="header-with-background">
     <div class="container">
       <div class="row">
-        <div class="col-md-12 text-center">
+	<div class="col-md-12 text-center">
           <h1>Meet the Team</h1>
-        </div>
+	</div>
       </div>
     </div>
   </section>
@@ -80,82 +85,73 @@
           <ul class="nav nav-pills nav-stacked officers-sidebar">
             <li>
               <a href="javascript:void(0)" data-target="#president">
-                <img src="images/officers/2016_Silva_Jorge.jpg">
+                <img src="images/officers/2017_Dhir_Rahul.jpg">
                 <div class="caption">
-                  <span class="name">Jorge Silva</span>
+                  <span class="name">Rahul Dhir</span>
                   <span class="title">President</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#vice-president">
-                <img src="images/officers/2016_Nelson_Rob.jpg">
+                <img src="images/officers/2017_Patel_Purav.jpg">
                 <div class="caption">
-                  <span class="name">Rob Nelson</span>
-                  <span class="title">Vice President</span>
+                  <span class="name">Purav Patel</span>
+                  <span class="title">Vice-President</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#secretary">
-                <img src="images/officers/2016_Dhir_Rahul.jpg">
+                <img src="images/officers/2017_Qubti_Yara.jpg">
                 <div class="caption">
-                  <span class="name">Rahul Dhir</span>
+                  <span class="name">Yara Qubti</span>
                   <span class="title">Secretary</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#treasurer">
-                <img src="images/officers/2016_Landa_Valerie.jpg">
+                <img src="images/officers/2017_Mendoza_Daniel.jpg">
                 <div class="caption">
-                  <span class="name">Valerie Landa</span>
+                  <span class="name">Daniel Mendoza</span>
                   <span class="title">Treasurer</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#community-service">
-                <img src="images/officers/2016_Matthys_Katie.jpg">
+                <img src="images/officers/2017_Hsu_Che-Yu.jpg">
                 <div class="caption">
-                  <span class="name">Katie Matthys</span>
-                  <span class="title">Community Service Representative</span>
+                  <span class="name">Che-Yu Hsu</span>
+                  <span class="title">Community Service Director</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#public-relations">
-                <img src="images/officers/2016_Tunggadjaja_Stacy.jpg">
+                <img src="images/officers/2017_Nguyen_Clayton.jpg">
                 <div class="caption">
-                  <span class="name">Stacy Tunggadjaja</span>
-                  <span class="title">Public Relations Representative</span>
+                  <span class="name">Clayton Nguyen</span>
+                  <span class="title">Public Relations Director</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#social">
-                <img src="images/officers/2016_Vyas_Juhi.jpg">
+                <img src="images/officers/2017_Nguyen_Jason.jpg#">
                 <div class="caption">
-                  <span class="name">Juhi Vyas</span>
-                  <span class="title">Social Representative</span>
+                  <span class="name">Jason Nguyen</span>
+                  <span class="title">Social Director</span>
                 </div>
               </a>
             </li>
             <li>
               <a href="javascript:void(0)" data-target="#floss">
-                <img src="images/officers/2016_Wold_Alex.jpg">
+                <img src="images/officers/2017_Lee_Cindy.jpg">
                 <div class="caption">
-                  <span class="name">Alex Wold</span>
+                  <span class="name">Cindy Lee</span>
                   <span class="title">FLOSS Director</span>
-                </div>
-              </a>
-            </li>
-            <li>
-              <a href="javascript:void(0)" data-target="#webmaster">
-                <img src="images/officers/2016_Waheed_Kristen.jpg">
-                <div class="caption">
-                  <span class="name">Kristen Waheed</span>
-                  <span class="title">Webmaster</span>
                 </div>
               </a>
             </li>
@@ -163,280 +159,220 @@
         </div>
         <div class="col-md-8">
           <div class="officer-profile" id="president">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Silva_Jorge.jpg"></div>
-            <h1>Jorge Silva</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Dhir_Rahul.jpg"></div>
+            <h1>Rahul Dhir</h1>
             <h2>President</h2>
             <h3>president@texaspredental.org</h3>
-            <br>
-            <h4>Class Year</h4>
-            <p>2017</p>
-
-            <h4>Major</h4>
-            <p>Biology, Business Foundations Program</p>
-
-            <h4>Hometown</h4>
-            <p>Laredo, Texas</p>
-
-            <h4>What got you interested in dentistry?</h4>
-            <p>After realizing that a career in the Medical Field would be an ideal profession for me, I looked into various occupations including Veterinary Medicine, Anesthesiology, and of course Dentistry. On paper, the Dental field really seemed to have everything I was looking for. It would give me the chance to be successful, respected, have a flexible work schedule, and I would be improving the health of people through it all. It wasn’t until after I first shadowed a Dentist that I realized I truly was in the right field. Seeing how grateful the patients were after their appointments was a great feeling. In addition, the collaborative environment presented in a Dental office was what also what appealed to me. Dentistry is a really interesting and emerging profession, and I highly recommend for those who are interested to look into it.</p>
-
-            <h4>What do you like the most about TPS?</h4>
-            <p>What separates TPS from most other organization on campus is the professionalism displayed by the members and officers. I feel that this is a critical quality to have in the medical field and it is my favorite part of the organization.</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>General Chemistry with Dr. Fakhreddine has definitely been one of my favorite classes so far. This was one of my first science classes at UT and Dr. Fakhreddine set the tone for what the next couple of years would be like. She challenged us each day and always made class interesting. I am more than grateful for having enrolled in her class because I did not just leave with a better understanding of Chemistry, but also about the work ethic needed to thrive in college, and I learned a lot about myself as well. In addition, I also made great friends in her class as she encouraged collaborative learning.</p>
-
-            <h4>How do you relieve stress?</h4>
-            <p>Exercising at Gregory Gym or the Rec, bike riding, or any type of team sport is how I usually get away from all of the stressful schoolwork.</p>
-
-            <h4>What is your favorite quote and why?</h4>
-            <p>“Win the Day” - Unknown<br>This simple message reminds me to put my best foot forward everyday. It makes me realize that if I can master each day, those days will eventually add up to a successful week, then the weeks will turn into months and so on. Although it’s important to think about your future, your plan has to start with today.</p>
-          </div>
-          <div class="officer-profile" id="vice-president">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Nelson_Rob.jpg"></div>
-            <h1>Rob Nelson</h1>
-            <h2>Vice President</h2>
-            <h3>vicepresident@texaspredental.org</h3>
-            <br>
-            <h4>Class Year</h4>
-            <p>2017</p>
-
-            <h4>Major</h4>
-            <p>Biology, Business Foundations Program</p>
-
-            <h4>Hometown</h4>
-            <p>Alvin, Texas</p>
-
-            <h4>What got you interested in dentistry?</h4>
-            <p>I was always interested in healthcare professions, and I maintained a great relationship with my family dentist. In high school my dentist and I were discussing my future plans and he suggested that I come to shadow him. So I began shadowing him and I fell in love with the profession. From the personal connection with patients to the development of a smile in the lab, I felt right at home. Helping others develop and maintain their smile is a life changing process that I can’t wait to be part of! </p>
-
-            <h4>What do you like the most about TPS?</h4>
-            <p>Dental School Trips. Each spring we travel to the Texas dental schools as a group and we always have a great time! Being able to come together and experience the dental schools as a group puts everything into perspective as to what we are working towards. It is a motivating and enjoyable experience each time we go!</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>Organic Chemistry! Organizing two dimensional molecules in a three dimensional space and understanding the interactions of these molecules fascinates me.</p>
-
-            <h4>How do you relieve stress?</h4>
-            <p>I have always loved being outdoors. When I am stressed I try to get myself out in nature, whether it be running, golfing, or hiking, I just love to get myself outside. </p>
-
-            <h4>What is your favorite quote and why?</h4>
-            <p>“You miss one-hundred percent of the shots you don’t take” - Wayne Gretzky<br> I love this quote because it basically says that if you don’t try, you don’t know what you are capable of. The least that we can do is to try our best at everything we do and give ourselves a shot.</p>
-          </div>
-          <div class="officer-profile" id="secretary">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Dhir_Rahul.jpg"></div>
-            <h1>Rahul Dhir</h1>
-            <h2>Secretary</h2>
-            <h3>secretary@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>
             <p>2018</p>
 
             <h4>Major</h4>
-            <p>Finance & Pre-Health Professions Certificate</p>
+            <p>Finance, Real Estate Management</p>
 
             <h4>Hometown</h4>
             <p>Plano, Texas</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>I've been interested in dentistry ever since I interned at a dental specialties clinic in the eleventh grade. I thoroughly enjoy science and engineering, so working with an orthodontist really made me fall in love with the profession!</p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>I used to be on the rowing team for UT and am actively involved with Texas Business Healthcare Association, an organization that bridges the gap between business and healthcare! Aside from regularly volunteering and shadowing dentists, I work as a software engineer and web developer!</p>
 
             <h4>What do you like the most about TPS?</h4>
             <p>My favorite aspect of TPS is the number of opportunities each member gets. TPS provides so many unique and useful opportunities to its members, whether it may be DAT study sessions or just advice on dental school applications from current dental students!</p>
 
-            <h4>Favorite class at UT?</h4>
-            <p>Without a doubt, my favorite class at UT has been Engineering Physics 303K with Dr. Hoffman. I love the fact that there are real-world applications for physics at even the most basic level!</p>
-
             <h4>How do you relieve stress?</h4>
             <p>I love boxing, working out, and anything outdoors! It helps clear my mind and relieve tension!</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Do not go where the path may lead, go instead where there is no path and leave a trail" - Ralph Waldo Emerson<br>This quote exemplifies the importance of innovation and legacy to me. It represents the footprint that can be left behind by the efforts of just one man, showing that any individual has the capacity to change the world!</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>Make sure you are passionate about dentistry so that you may use that passion to motivate yourself towards success!</p>
+          </div>
+          <div class="officer-profile" id="vice-president">
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Patel_Purav.jpg"></div>
+            <h1>Purav Patel</h1>
+            <h2>Vice-President</h2>
+            <h3>vicepresident@texaspredental.org</h3>
+            <br>
+            <h4>Class Year</h4>
+            <p>2018</p>
+
+            <h4>Major</h4>
+            <p>Biology, Business Foundations Program</p>
+
+            <h4>Hometown</h4>
+            <p>Euless, Texas</p>
+
+            <h4>What are your other interests or involvements?</h4>
+            <p>I am interested in sports, cooking, traveling, playing the bassoon, and reading articles about dentistry. My other main involvement is in Texas Men of Excellence: the premier mentorship organization on campus.</p>
+
+            <h4>What do you like the most about TPS?</h4>
+            <p>Families/Big-Little Program. This gives members the opportunity to mentor and share their path to applying for dental school. It also allows members to build a stronger relationship with other members in the organization.</p>
+
+            <h4>How do you relieve stress?</h4>
+            <p>I relieve my stress by working out, taking a drive, listening to music, playing sports, and spending time outdoors.</p>
+
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>I'd advise pre-dental students to be involved with TPS as much as possible. TPS gives you the opportunity to learn about dentistry & the numerous routes of getting into dental school, offers dental school trips, volunteer opportunities, & a shadowing program, and allows you to make great new friends. Take advantage of everything TPS has to offer!</p>
+          </div>
+          <div class="officer-profile" id="secretary">
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Qubti_Yara.jpg"></div>
+            <h1>Yara Qubti</h1>
+            <h2>Secretary</h2>
+            <h3>secretary@texaspredental.org</h3>
+            <br>
+            <h4>Class Year</h4>
+            <p>2019</p>
+
+            <h4>Major</h4>
+            <p>Biology, Business Foundations Program</p>
+
+            <h4>Hometown</h4>
+            <p>Lubbock, Texas</p>
+
+            <h4>What are your other interests or involvements?</h4>
+            <p>I love to travel, volunteer, and spend time with friends and family. In addition to TPS, I'm also a member of Texas Chi Omega, Global Medical Training, and the FIG Mentor program!</p>
+
+            <h4>What do you like the most about TPS?</h4>
+            <p>My favorite part about TPS is the people. Everyone is so supportive and always willing to help each other. I also love the dental-related volunteer opportunities that TPS provides.</p>
+
+            <h4>How do you relieve stress?</h4>
+            <p>I love to listen to music and have quiet time when I'm stressed. It helps me clear my mind and become re-motivated!</p>
+
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>GET INVOLVED! Volunteer, shadow, and network as much as you can, and don't be afraid to reach out for help or advice when you need it!</p>
           </div>
           <div class="officer-profile" id="treasurer">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Landa_Valerie.jpg"></div>
-            <h1>Valerie Landa</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Mendoza_Daniel.jpg"></div>
+            <h1>Daniel Mendoza</h1>
             <h2>Treasurer</h2>
             <h3>treasurer@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>      
-            <p>2017</p>
+            <p>2018</p>
 
             <h4>Major</h4>
-            <p>Chemistry, Business Foundations Program</p>
+            <p>Nutrition, Business Foundations Program</p>
 
             <h4>Hometown</h4>
-            <p>Laredo, TX</p>
+            <p>Sugar Land, TX</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>"Mi hija, me duele la muela de atrás. Por favor dale un vistazo." These are the words my dad said to me during my senior year in high school. He wanted me to look into his mouth and tell him what was going on with his tooth. Although it was not the strangest request I had gotten from him, I was speculative. Nevertheless, I agreed while reminding him that I wasn't a dentist. "But I could become one and help others like you," I thought to myself. My interest in dentistry grew over the years as I gained more exposure and experience in the field through shadowing, and summer programs dedicated to pre-health professional students. </p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>I enjoy working out, playing sports, dancing (somewhat), video games, and watching anime. I am also a member of Texas Healthy Habits, Filipino Student Association, and the current Treasurer of Gamma Beta Fraternity, Inc.</p>
 
             <h4>What do you like the most about TPS?</h4>
-            <p>The family aspect of the organization. Everyone is always so courteous and welcoming. </p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>Organic Chemistry</p>
+            <p>My favorite thing about TPS is that it acts as a supportive community in the midst of a very competitive school. From visiting dental schools to befriending someone that is on almost the EXACT route as me, I have received endless amounts of help in my aspiration of becoming a dentist.</p>
 
             <h4>How do you relieve stress?</h4>
-            <p>I'm a big fan of all sports (playing them more than watching). Although I'm no where near a pro-status, I enjoy tennis, running, soccer, basketball, and  swimming. I'm also really dorky and like reading mystery novels with my little sister. </p>
+            <p>Depending on what type of stress I'm experiencing, I either like to go out for a long run or simply interact with other people. Anything that clears my mind, really.</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Whatever I have tried to do in life, I have tried with all my heart to do it well; whatever I have devoted myself to, I have devoted myself completely; in great aims and in small I have always thoroughly been in earnest." - Charles Dickens<br> Devotion is critical and this quote reminds me to always do my best in everything I do. Having a strong work ethic is important not only in school, but in our everyday activities. As future health professionals I believe the most important characteristic to have is the ability to do the small things right everyday, and take pride in one's work.</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>Find a mentor within TPS and/or someone that recently got accepted into dental school! The path of becoming a successful applicant can be very uncertain and ambiguous for those without much guidance. Don't be shy to ever ask questions or for any sort of help, that's what TPS is for!</p>
           </div>
           <div class="officer-profile" id="community-service">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Matthys_Katie.jpg"></div>
-            <h1>Katie Matthys</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Hsu_Che-Yu.jpg"></div>
+            <h1>Che-Yu Hsu</h1>
             <h2>Community Service Director</h2>
             <h3>service@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>
-            <p>2017</p>
+            <p>2018</p>
 
             <h4>Major</h4>
-            <p>BSA Biology, Pre-Health Professions</p>
+            <p>Biology, Business Foundations Program</p>
 
             <h4>Hometown</h4>
-            <p>Austin, Texas</p>
+            <p>Lukang, Taiwan</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>I've always been interested in pursuing a health-related career. After shadowing many of the different options, dentistry stuck out to me the most. I love the hands-on, artistic, and critical-thinking aspects of it, as well as the great relationships you can develop with your patients. As someone who always likes to be doing something active and to be around other people, I decided that dentistry is the perfect fit for me.</p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>I am a tutor at Sanger Learning Center and a Pantry Manager at Micah 6 Austin.</p>
 
             <h4>What do you like the most about TPS?</h4>
-            <p>I love being able to meet people who have the same goals as me and being able to share experiences and advice! We all work together to achieve our goals and TPS is such a welcoming and family-like community!</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>Organic Chemistry with Dr. Shabbir! It is by far the most challenging and rewarding class I've taken. I loved drawing the different structures and it always felt so good once you solved a mechanism by putting it together like a puzzle.</p>
+            <p>I love the connections that I make with other Pre-Dental students, and that we can all help each other out in our struggle to get into dental school.</p>
 
             <h4>How do you relieve stress?</h4>
-            <p>Exercising is one of my favorite things-Yoga, running, cycling and kickboxing.</p>
+            <p>Anything outdoors such as fishing, target shooting, and exercising. Cooking is also one of my favorite pastimes, just flip my favorite shows on while cooking is one of the greatest joys of life.</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Worry does not empty tomorrow of its troubles. It empties today of its strengths." - Corrie Ten Boom<br>I think this is a great reminder to live each day to the fullest and not to overthink things. Each day is a learning experience that should be enjoyed!</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>Be more proactive, opportunities multiply as they are seized.</p>
           </div>
           <div class="officer-profile" id="public-relations">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Tunggadjaja_Stacy.jpg"></div>
-            <h1>Stacy Tunggadjaja</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Nguyen_Clayton.jpg"></div>
+            <h1>Clayton Nguyen</h1>
             <h2>Public Relations Director</h2>
             <h3>publicrelations@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>
-            <p>2017</p>
+            <p>2018</p>
 
             <h4>Major</h4>
-            <p>Finance</p>
+            <p>Biochemistry</p>
 
             <h4>Hometown</h4>
-            <p>Sugar Land, Texas</p>
+            <p>Austin, Texas</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>I was quite blessed to wear braces for almost 4 years and have 4 pre-molars removed to make room for my orthodontic treatment adjustments. Yes, it sounds awfully painful, but I have to thank those constant visits to my orthodontist for exposing me to the dental field. Seeing how my orthodontist genuinely enjoys recreating better smiles for his patients inspired me to learn and understand the profession through shadowing and continued studies in high school and college.</p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>Texas Interdisciplinary Plan Program Mentor & Ambassador. A member of Alpha Epsilon Delta. During my free time, I like to practice photography and editing photos.</p>
 
             <h4>What do you like the most about TPS?</h4>
-            <p>I love how resourceful and warm TPS is as an organization. Being the only pre-dental organization on campus, TPS has a multitude of volunteer, shadowing, and networking opportunities that are all helpful for those interested in discovering more of what dentistry is about. Above all, TPS is truly a loving home for students who are equally brilliant and passionate about providing better smiles and oral care to everyone!</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>Organic Chemistry II with Dr. Iverson! I have never been pushed and challenged so much in a class until I took this course. OChem is one of the most puzzling yet fascinating subjects I've studied, and I really enjoyed the amount of information I applied and learned in that class. Dr. Iverson inspired me to keep pushing myself and to never shy away from a challenge!</p>
+            <p>Being surrounded by peers that share the same goal as you. I've made life long friends through TPS. The camaraderie in TPS is like no other! Everyone is so nice and is so determined to get into dental school. It's truly inspiring.</p>
 
             <h4>How do you relieve stress?</h4>
-            <p>I find myself at peace and relieved from stress the most when I take time for myself to pray and write about my day (or anything, really) in my journal. Baking, cooking, swimming, and going for a run on a nice, breezy day also help me de-stress and reorganize my thoughts. </p>
+            <p>I love to watch TV. Reality competition, drama and comedy shows are my favorite! Meditating, praying, eating sweets and sleeping also help me relieve stress.</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Accept what is, let go of what was, and have faith in what will be." - Sonia Ricotti<br>Often times, I can get overwhelmed by the past and the things I wish I had done differently, but this quote reminds me to stay grounded in the present and embrace that every action I take is a choice I can make to stay positive and be happy. Forget the worries and look out for the next adventure to add to your life story!</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>Find students who are older than you and ask them to be your mentor. Learning from others' experiences is probably the best thing you can do. They know all the resources, they've made mistakes and they've been in your shoes!</p>
           </div>
           <div class="officer-profile" id="social">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Vyas_Juhi.jpg"></div>
-            <h1>Juhi Vyas</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Nguyen_Jason.jpg"></div>
+            <h1>Jason Nguyen</h1>
             <h2>Social Director</h2>
             <h3>social@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>
-            <p>2017</p>
+            <p>2018</p>
 
             <h4>Major</h4>
-            <p>Biology</p>
+            <p>Biology, Business Foundations Program</p>
 
             <h4>Hometown</h4>
-            <p>Irving, Texas</p>
+            <p>Richardson, Texas</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>When someone asks me why I want to be a dentist, I always just say because it’s truly what I can see myself enjoying. After shadowing my dentist freshman year in high school and interning throughout senior year, I really fell in love with the field. It's what I'm passionate about! </p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>I am interested in sports, movies/theater, entrepreneurship (Shark Tank style), and magic tricks. My hobbies include all things related to sports. I play most of the conventional sports such as basketball and football. However, I am also very intrigued and have picked up several other underrated sports such as bowling, Ping-Pong, and volleyball. I am involved in the Vietnamese Student Association, Filipino Student Association, and Natural Sciences Council.</p>
 
             <h4>What do you like the most about TPS?</h4>
-            <p>Being around like-minded, ambitious individuals with the same common love for Dentistry. This is where I've met some of my closest friends.</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>ARC 308 (Intro to Architecture) Very interesting, great professor!<br>EDP 363 -3 (Human Sexuality) Such a funny class. Brownstein is great! </p>
+            <p>If you truly open up to TPS and make a commitment to become involved, you begin to realize the incredible opportunities that this organization provides for you. It really helps you take steps toward your dream career whether that is by providing service opportunities, shadowing opportunities, or DAT/Application advice. I have also met some incredible friends through this organization, and it has made this stressful journey a little more enjoyable thus far.</p>
 
             <h4>How do you relieve stress?</h4>
-            <p>Hanging out with friends, kickboxing & yoga, and drawing.</p>
+            <p>I always use meals as a time to regroup and recharge. I always give myself an hour for lunch or for dinner. During this time, I watch videos on YouTube or watch a show that I love (Shark Tank), and just allow myself to enjoy that meal. Typically, I had already studied for a large amount of time before this meal, and intend on studying for a large amount of time after this meal so I need this break. After an exam, I do as many activities unrelated to academics as possible.</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"If you're going through hell, keep going." - Winston Churchill<br>It motivates me to give my all into whatever it is that's bringing me down - school, work, etc. You can't get ahead without jumping through hurdles along the way.</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>ASK FOR ADVICE!!! Trying to get into dental school is stressful, nerve-wracking, and DIFFICULT! But there are so many individuals that have gone through exactly what you are about to go through, and do not be afraid to talk to them! Ask them for their thoughts and if they have any tips for you (DAT, applications, courses at UT, etc.). It will not only make you feel better, but it will also give you a direction to take your next steps towards this wonderful career. You do not have to go through this all alone.</p>
           </div>
           <div class="officer-profile" id="floss">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Wold_Alex.jpg"></div>
-            <h1>Alex Wold</h1>
+            <div class="hidden-xs officer-picture"><img src="images/officers/2017_Lee_Cindy.jpg"></div>
+            <h1>Cindy Lee</h1>
             <h2>FLOSS Director</h2>
             <h3>floss@texaspredental.org</h3>
             <br>
             <h4>Class Year</h4>
-            <p>2017</p>
+            <p>2018</p>
 
             <h4>Major</h4>
-            <p>BSA Biology, Spanish, Business Foundations Program</p>
+            <p>Nutrition</p>
 
             <h4>Hometown</h4>
             <p>Katy, Texas</p>
 
-            <h4>What got you interested in dentistry?</h4>
-            <p>I became interested in dentistry at the age of eight. I have two younger siblings and oddly enough I pulled out every single one of their baby teeth. I always knew I wanted to pursue a career in the medical field that involved helping people. This stemmed from the fact that my brother was born premature and my younger sister had heart surgery. Dentistry just stuck with me as a way to do something I was interested in and make people more confident with themselves and their smiles.</p>
+            <h4>What are your other interests or involvements?</h4>
+            <p>My hobbies are playing golf, frisbee, and running! I'm involved in Texas 4000 (biking from Austin, Texas to Anchorage, Alaska to fight cancer every mile) and Texas THON(student-run philanthropy that raises awareness and funds for Dell Children's Medical Center). I am also involved in TX Sprouts and AACM (Asian American Christian ministry)!</p>
 
             <h4>What do you like the most about TPS?</h4>
-            <p>The thing I like most about TPS are all of the inspirational people in the organization. Everyone is so determined to get into dental school and they are always willing to offer help and guidance to anyone who asks for it.</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>My favorite class at UT was my freshman general chemistry class. I had Dr. Laude and he is the reason I loved the class so much. On the first day of class Dr. Laude told us a story about how he didn't get into medical school after trying multiple times. This probably should have scared me as I was a freshman during this class but instead it taught me an important lesson about my college career, which was to never give up.</p>
+            <p>My favorite thing about TPS is how determined, encouraging, and willing everyone is to help each other. It is such a blessing to be able to surround myself with such a motivating atmosphere and TPS taught me that being a dentist is not only about fixing teeth but also about keeping a positive attitude and truly caring about the community.</p>
 
             <h4>How do you relieve stress?</h4>
-            <p>I relieve stress by running. It helps me calm down if I'm worrying about something and helps take my mind off of everything.</p>
+            <p>By being outdoors. Golfing, running, hiking, and just being out in nature!</p>
 
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Twenty years from now you will be more disappointed <br>
-            by the things you didn't do than by the ones you did do.<br>
-            So throw off the bowlines.<br>
-            Sail away from the safe harbor.<br>
-            Catch the trade winds in your sails.<br>
-            Explore. Dream. Discover."<br>
-            - Mark Twain<br>I love this quote because it reminds to live my life as if it were an adventure and to never be scared to try new things."</p>
-          </div>
-          <div class="officer-profile" id="webmaster">
-            <div class="hidden-xs officer-picture"><img src="images/officers/2016_Waheed_Kristen.jpg"></div>
-            <h1>Kristen Waheed</h1>
-            <h2>Webmaster</h2>
-            <h3>hostmaster@texaspredental.org</h3>
-            <br>
-            <h4>Class Year</h4>
-            <p>2017</p>
-
-            <h4>Major</h4>
-            <p>Biochemistry, Forensic Science, Computer Science</p>
-
-            <h4>Hometown</h4>
-            <p>Houston, Texas</p>
-
-            <h4>What got you interested in dentistry?</h4>
-            <p>Although my father is a dentist, I was never really aware of dentistry as a possible career until the summer before university. That summer my father sculpted composite resin veneers on my teeth to improve my smile. I can speak from personal experience that dentistry truly changes lives, not only in the physical smile but also in the patient's self esteem! I truly want to give others that same kind of confidence to do the things they have only dreamed about and feel truly good about themselves. And to me dentistry is the best way to achieve this! It seamlessly combines art and science to improve the patient's daily life!</p>
-
-            <h4>What do you like the most about TPS?</h4>
-            <p>All of the TPS members are so determined to attend dental school and they are willing to help each other get there every step of the way: from weekly study sessions to DAT advice. They are such inspiring individuals and make an even more inspiring group!</p>
-
-            <h4>Favorite class at UT?</h4>
-            <p>My favorite class at UT has been Organic Chemistry with Dr. Colapret. I struggled with it in the beginning, but in the end, Organic Chemistry taught me the true importance and value in understanding information versus rote memorization. And for that reason, I believe it was a turning point in my academic and personal career.</p>
-
-            <h4>How do you relieve stress?</h4>
-            <p>I relieve stress by painting and reading. I am currently working on a watercolor portfolio and have found this medium to be both soothing and challenging. I also will read just about anything! Some of my favorite books at the moment are The Martian by Andy Weir, Mindset by Carol S. Dweck, Ph.D. and The Hobbit by J.R.R. Tolkien.</p>
-
-            <h4>What is your favorite quote and why?</h4>
-            <p>"Everyone you will ever meet knows something you don't" - Bill Nye<br>This is my favorite quote because it advocates humility in the fact that each of us can learn something from one another. A person is never finished learning in life!</p>
+            <h4>What is your advice for fellow pre-dental students?</h4>
+            <p>Occasionally we get so overwhelmed with all of the things we have to do in order to get to the future and reach our goals. But I believe that it's very important to slow down, take time out to reflect, and enjoy this wonderful journey by taking one step at a time.</p>
           </div>
         </div>
       </div>
@@ -483,7 +419,7 @@
       </div>
       <div class="row text-center">
         
-     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2016 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
+     <p class="copyright">Texas Pre-Dental Society is an affiliate of The University of Texas at Austin College of Natural Sciences.<br>&copy;2017 Texas Pre-Dental Society. All rights reserved. Design by <a href="http://rahuldhir.com" target="_blank">Rahul Dhir</a>.</p>
       </div>
     </div>
   </footer>

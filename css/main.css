@@ -5865,6 +5865,18 @@ section.header {
   padding: 50px 0;
   color: #000; }
 
+section.header-with-background {
+  background-size: cover;
+  padding: 230px 0; }
+  section.header-with-background h1 {
+    color: #fff;
+    text-shadow: 0 0 10px #000; }
+
+@media (max-width: 480px) {
+  section.header-with-background {
+    background-size: contain;
+    padding: 48px 0 0 0; } }
+
 section.officers .officers-sidebar {
   background-color: #f7f7f7; }
   section.officers .officers-sidebar img {
