@@ -55,6 +55,8 @@ ul.meeting-list {
 	}
 }
 
+
+
 p.mission-statement {
 	margin-top: 25px;
 	line-height: 2em;
@@ -83,7 +85,6 @@ section.header-with-background {
 
 @media(max-width: $screen-xs) {
 	section.header-with-background {
-		background-size: contain;
 		padding: 48px 0 0 0;
 	}
 }

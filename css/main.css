@@ -5874,7 +5874,6 @@ section.header-with-background {
 
 @media (max-width: 480px) {
   section.header-with-background {
-    background-size: contain;
     padding: 48px 0 0 0; } }
 
 section.officers .officers-sidebar {
