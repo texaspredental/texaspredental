@@ -16,7 +16,4 @@
     "url": "https://github.com/RahulDhir/texaspredental/issues"
   },
   "homepage": "https://github.com/RahulDhir/texaspredental#readme",
-  "dependencies": {
-    "bourbon-neat": "^1.8.0"
-  }
 }
